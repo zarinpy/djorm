@@ -1,0 +1,4 @@
+include docs
+include LICENSE
+include *.srt
+recursive-include tests *.py
